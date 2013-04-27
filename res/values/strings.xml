@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SystemsInventoryActivity!</string>
+    <string name="app_name">SystemsInventory</string>
+    <string name="hardwareId">Hardware ID :</string>
+    <string name="userId">User : </string>
+    <string name="assign">Assign</string>
+    <string name="verify">Verify</string>
+    <string name="lastScan">Last Scan : Touch Verify</string>
+    <string name="scan">Scan</string>
+
+    <string-array name="hardwareInfo">
+        <item >TAMU ID:</item>
+    	<item>Equipment Type:</item>
+   	 	<item>Make Model:</item>
+    	<item>Serial Number:</item>
+    	<item>Warranty:</item>
+    	<item>Purchase Date:</item>
+    	<item>Last Scanned Date:</item>
+    	<item>Grant ID:</item>
+    	<item>Notes:</item>  
+   	</string-array>
+    <string name="onScan">onScan</string>
+    <string name="onVerify">onClickVerify</string> 
+
+</resources>
